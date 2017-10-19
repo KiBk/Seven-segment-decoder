@@ -1,0 +1,15 @@
+//filestore.soton.ac.uk/users/kb5n17/mydocuments/SystemVerilog/Seven_segment_decoder/sevenseg.sv {1 {vlog -work work -vopt -sv -stats=none //filestore.soton.ac.uk/users/kb5n17/mydocuments/SystemVerilog/Seven_segment_decoder/sevenseg.sv
+Model Technology ModelSim SE-64 vlog 10.6a Compiler 2017.03 Mar 16 2017
+-- Compiling module sevenseg
+
+Top level modules:
+	sevenseg
+
+} {} {}} //filestore.soton.ac.uk/users/kb5n17/mydocuments/SystemVerilog/Seven_segment_decoder/testbench_for_sevenseg.sv {1 {vlog -work work -vopt -sv -stats=none //filestore.soton.ac.uk/users/kb5n17/mydocuments/SystemVerilog/Seven_segment_decoder/testbench_for_sevenseg.sv
+Model Technology ModelSim SE-64 vlog 10.6a Compiler 2017.03 Mar 16 2017
+-- Compiling module testbench_for_sevenseg
+
+Top level modules:
+	testbench_for_sevenseg
+
+} {} {}}

@@ -1,0 +1,14 @@
+module testbench_for_sevenseg;
+
+  logic [6:0] data;
+  logic [3:0] address;
+
+  sevenseg g1 (.*);
+
+initial
+  address = 0;
+  repeat(4) begin
+    #10ns address++;
+  end
+
+endmodule
